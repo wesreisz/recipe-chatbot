@@ -1,0 +1,3 @@
+[submodule ".cursor"]
+	path = .cursor
+	url = git@dev-bpp-sbx-ssm-118227517457-ssh.us-central1.sourcemanager.dev:business-portal-sbx-1/prompt-library.git
